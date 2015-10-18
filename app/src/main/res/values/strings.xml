@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HackatonApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="facebook_app_id">918184838231165</string>
+    <string name="api_key">AIzaSyDoX1eo4QkiRaBQlTxmqOCFbn3n_yTLSZ8</string>
+    <string name="login_title">Iniciar Sesion</string>
+</resources>
